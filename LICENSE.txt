@@ -1,0 +1,5 @@
+.flex-control-nav li 
+  margin: 0 6px;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
